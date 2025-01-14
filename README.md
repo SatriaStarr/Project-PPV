@@ -28,9 +28,12 @@ Aplikasi ini dibangun menggunakan:
 
 ## Cara Installisasi
 - Download file `Money Manager App.zip` lalu buka folder Run App.
+- Anda akan melihat folder _internal dan MoneyManager.exe
 - Jalankan aplikasi: Aplikasi bergantung pada module folder `_internal` jadi jika ingin membuka aplikasi harus lewat File Explorer. Jika tidak membuka lewat satu folder, aplikasi tidak akan berjalan.
+###### Sayang nya kami belum bisa mengupload file `Money Mananger App.zip` dikarenakan ukuran file nya terlalu besar.
 
-## Jika ingin membuka melalui VsCode.
+
+## Membuka melalui VsCode.
 - Clone repositori: `git clone https://github.com/SatriaStarr/Project-PPV.git`
 - Download file `Project UAS PPV - KELOMPOK 5.zip` install library/dependensi yang diperlukan.
 - Install dependensi: Masuk ke terminal lalu ketik `pip install -r requirements.txt`
